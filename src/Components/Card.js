@@ -8,6 +8,7 @@ const Card = ({ title, body, id }) => {
       backgroundColor: themes.palette.primary.dark,
       borderRadius: "5px",
       minHeight: 200,
+      minWidth: 200,
       padding: "10px 20px",
       margin: 10,
     },
