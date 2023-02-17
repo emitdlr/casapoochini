@@ -27,7 +27,7 @@ function App() {
         <div className="App">
           <nav>
             <Link to="/" className="logo">
-              <h3>BlogDaily</h3>
+              <h3>Casapoochini</h3>
             </Link>
             <ul>
               <li>

@@ -1,5 +1,5 @@
 :root {
-  --main-peach: #ffc8c4;
+  --main-peach: #4522e3;
   --white: #ffffff;
   --bgColor: #0e1217;
   --offwhite: #d4c5c5;
@@ -50,7 +50,7 @@ nav ul li {
   background: transparent;
   padding: 6px 20px;
   border-radius: 16px;
-  border: 1px solid #bb8682;
+  border: 1px solid #581ed5;
   color: var(--offwhite);
   cursor: pointer;
 }

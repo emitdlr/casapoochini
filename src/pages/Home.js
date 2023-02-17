@@ -157,7 +157,7 @@ const Home = ({ isLogged }) => {
       <div>
         <div className={classes.titleDiv}>
           <div>
-            <p className={classes.text}>Popular posts from BlogDaily</p>
+            <p className={classes.text}>Updates from Casapoochini</p>
           </div>
           <div>
             <button className={classes.buttonStyles} onClick={handleOpen}>
