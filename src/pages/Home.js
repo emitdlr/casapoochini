@@ -157,11 +157,14 @@ const Home = ({ isLogged }) => {
       <div>
         <div className={classes.titleDiv}>
           <div>
-            <p className={classes.text}>Updates from Casapoochini</p>
+            <p className={classes.text}>Benvenuto a Casapoochini!</p>
+            <p className={classes.text}>
+              (This means Welcome to Casapoochini!)
+            </p>
           </div>
           <div>
             <button className={classes.buttonStyles} onClick={handleOpen}>
-              Create New Post
+              Family Only!
             </button>
           </div>
         </div>

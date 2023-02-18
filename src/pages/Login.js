@@ -46,11 +46,7 @@ const Login = ({ setIsLogged }) => {
 
   return (
     <div className={classes.root}>
-      <h1>Blog Daily Login</h1>
-      <p className={classes.text}>
-        To keep connected with us please login with your personal info with
-        google
-      </p>
+      <h1>Login</h1>
       <button className={classes.buttonStyles} onClick={LoginWithGoogle}>
         Login with Google
       </button>
