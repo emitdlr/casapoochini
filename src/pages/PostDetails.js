@@ -11,7 +11,7 @@ const PostDetails = () => {
       padding: "100px 50px",
       backgroundColor: themes.palette.primary.maindark,
       color: themes.palette.primary.offwhite,
-      height: "100vh",
+      height: "200vh",
       [theme.breakpoints.down("sm")]: {
         padding: "100px 13px",
       },
